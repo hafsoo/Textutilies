@@ -46,7 +46,7 @@ function App() {
      <Navbar  title="Texutilies" mode={mode} toggleMode={toggleMode}/>
      <Alert alert={alert}/>
      <div className='container my-3'>
-     <Textform showAlert={showAlert} title='ANALYZE THE TEXT BELOW:' mode={mode}/>
+     <Textform showAlert={showAlert} title='Try Texutilies-Word Counter,Character Counter,Remove Extra Spaces' mode={mode}/>
      </div> 
 
 {/*
